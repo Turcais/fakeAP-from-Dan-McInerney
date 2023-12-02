@@ -1,7 +1,7 @@
 fakeAP
 ======
 
-*** This app was broken when I got it from Dan McInerney, but I fixed this app, so you can use it.  This file is Dan McInerney's README.md file. Thank you Dan McInerney for this application.**
+*** This app was broken when I got it from Dan McInerney, but I fixed this app, so you can use it.  This file is Dan McInerney's README.md file. Thank you Dan McInerney for this application.***
 
 Create a fake access point in Kali. Determines the correct DHCP settings and creates the dhcpd.conf file for you. Includes the option to sniff all APs in the area and copy one of their settings.
 
