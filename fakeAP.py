@@ -328,4 +328,4 @@ def main(args):
             print (line)
         time.sleep(1)
 
-# main(parse_args())
+ main(parse_args())
